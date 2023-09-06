@@ -62,7 +62,7 @@
 # 💻 Rails API <a name="rails-api"></a>
 
 ```sh
-  https://github.com/Leeoasis/resort-booking-backend-app
+  https://github.com/KUBAHO3/resort-booking-backend-app
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Leeoasis/resort-booking-frontend-app.git
+  git clone https://github.com/KUBAHO3/resort-booking-frontend-app.git
 ```
 
 To install dependencies, run:
@@ -158,7 +158,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Leeoasis/resort-booking-frontend-app/issues).
+Feel free to check the [issues page](https://github.com/KUBAHO3/resort-booking-frontend-app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
